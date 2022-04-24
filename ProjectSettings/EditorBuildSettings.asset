@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/BasementMain.unity
+    guid: 13095c4e4c34c9c44b3e18fbd4b4407d
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/BasementStart.unity
+    guid: cd5d7a4ec4a322d458eff048d1d1d249
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/BasementEmpty.unity
+    guid: a1856719b4080a645b39127136970716
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/BasementBoss.unity
+    guid: f674bf56343ac1e4b8560acc272b2fd0
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a6c3f91cf8bfb454ca7e4f24625dddca
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bf04cd0238f909c4c80372e263072a9d
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement1.unity
+    guid: 7c0b10076b8fe394c9691d7044ef86ec
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement2.unity
+    guid: 764df2d51fa388241b0c901a02c37811
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement3.unity
+    guid: a1b9e231afaa47241bb0486778c48140
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement4.unity
+    guid: b1eb6f0ba33d80745839f2ccb1364c16
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement5.unity
+    guid: d1ec9ebd02c1b374a98f8619abe82c46
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement6.unity
+    guid: 1addd205221f73645bcf320adfa4fb51
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement7.unity
+    guid: cfcad6f6dd1ac5f449c648041685dfdb
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement8.unity
+    guid: 1479f1fbb0a94ca4ba0c607108daf314
+  - enabled: 1
+    path: Assets/Scenes/LabRooms/Basement9.unity
+    guid: b5c750a761f1670409ef625baedc8a03
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 790df6b49b46a9c46aca41a8e7aea8b8
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 948064326b230d54b8a530043bdd1c94
+  m_configObjects: {}
